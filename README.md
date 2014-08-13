@@ -15,9 +15,7 @@ intervals from which the chord can be constructed with any root.
 var accval = require('accidental-value');
 ```
 
-### accval(accidental) -> accval.value(accidental)
-
-### accval.value(accidental)
+### accval(accidental)
 
 Returns the *value* of the accidental from the table below.
 This is useful for manipulating notes and intervals.
